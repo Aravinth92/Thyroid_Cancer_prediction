@@ -1,5 +1,5 @@
 
-# Thyroid Disease Prediction App
+# Thyroid_Cancer_prediction
 
 This project is a Machine Learning based web application used to predict Thyroid disease based on user medical inputs.
 
@@ -47,3 +47,4 @@ Student Machine Learning Project.
 
 ---
 Feel free to modify and enhance this project.
+
